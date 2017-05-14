@@ -275,6 +275,7 @@ input[type=submit] {
   }
 
   .auth-image {
+    float: left;
     width: 50%;
   }
 
